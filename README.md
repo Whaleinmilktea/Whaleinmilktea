@@ -20,7 +20,7 @@
 ## 🛫 Current Project
 
 - #### ***스터디 관리 웹 Edusyc*** : https://www.edusync.site
-- #### ***Assign*** : Profile / Manage Study / Calendar / Testing
+- #### ***Assign*** : Profile / Manage Study / Calendar / MSW
 
 <br>
 
