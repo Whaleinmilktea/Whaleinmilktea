@@ -37,7 +37,7 @@
 
 ### Testing
 
-![Jest](https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%BF3B18.svg?style=for-the-badge&logo=jest&logoColor=white)
 
 ### DevOps
 
