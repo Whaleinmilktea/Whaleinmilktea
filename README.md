@@ -20,6 +20,7 @@
 ## 🛫 Current Project
 
 - #### ***스터디 관리 웹 Edusyc*** : https://www.edusync.site
+- #### ***github 주소*** : https://github.com/codestates-seb/seb43_main_016
 - #### ***Assign*** : Profile / Manage Study / Calendar / MSW
 
 <br>
