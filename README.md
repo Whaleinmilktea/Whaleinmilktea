@@ -4,7 +4,6 @@
 - #### 🌱 Frontend skill 뿐만 아니라, 네트워크, UX, UI, DX, 네트워크, 운영체제 등 웹이 속한 Computing 전반에 관한 관심을 갖고 있습니다
 - #### 👯 혼자서 문제를 갖고 끙끙대지 않습니다. 동료 & 멘토와 함께 문제가 위치한 레이어를 빠르게 파악하고, 개선하고, 학습하는 것을 즐깁니다
 - #### 🪝 항상 사용자 역할(User-Roles), 사용자 유형(User-Types), 사용자 그룹(User-Groups), 단위 서비스의 대상 사용자 (Target-User) 별로 안전하고 즐거운 사용자 경험에 대해 고민합니다
-- #### 🙇‍♂️ E-Learning, Blended-Learning, Flipped-Learning 등 다양한 교육 technique에 대한 이해가 있으며, 통합적 학습 시스템 관리를 위한 LMS 시스템 개발에 관심이 있습니다
 
 <br>
 
