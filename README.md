@@ -1,9 +1,10 @@
 # Hello👋 Thank you to everyone, Visiting this place
 
 ## 💫 About Me:
-- #### 🌱 Frontend skill 뿐만 아니라, 네트워크, UX, UI, DX, 네트워크, 운영체제 등 웹이 속한 Computing 전반에 관한 관심을 갖고 있습니다
-- #### 👯 혼자서 문제를 갖고 끙끙대지 않습니다. 동료 & 멘토와 함께 문제가 위치한 레이어를 빠르게 파악하고, 개선하고, 학습하는 것을 즐깁니다
-- #### 🪝 항상 사용자 역할(User-Roles), 사용자 유형(User-Types), 사용자 그룹(User-Groups), 단위 서비스의 대상 사용자 (Target-User) 별로 안전하고 즐거운 사용자 경험에 대해 고민합니다
+- #### 🌱 빠르게 구현하고, 지속적으로 개선하는 개발자입니다.
+- #### 🫥 사용하는 웹과 언어의 Deep한 이해를 추구합니다.
+- #### 🧑‍💻 과감하고 솔직하게, 때로는 과하다 싶을 정도로 문제를 공유합니다. 협업이 개인을 넘어선 놀라운 기적을 만들 것을 믿기 때문입니다.
+- #### 🌟 저는 테크 얼리어답터가 아닌 문제 해결사가 되고자 합니다. 저의 가치는 함께하는 공동체가 문제를 해결하고 성장할 때 높아진다고 생각하기 때문입니다.
 
 <br>
 
@@ -11,14 +12,12 @@
 ## 🌐 Contact Me:
 
 - #### 📮 **_Email_** : shaawwert6044@gmail.com
-- #### 📃 **_LinkedIn_** : https://linkedin.com/in/https://kr.linkedin.com/in/%ED%95%98%EC%84%B1-%EA%B0%95-078752278?trk=people-guest_people_search-card
 - #### 📚 **_Tistory Blog_** : https://whaleinmilktea.tistory.com/
 
 <br>
 
 ## 🛫 Current Project
 
-- #### ***스터디 관리 웹 Edusyc*** : https://www.edusync.site
 - #### ***github 주소*** : https://github.com/codestates-seb/seb43_main_016
 - #### ***Assign*** : Profile / Manage Study / Calendar / MSW
 
