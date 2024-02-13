@@ -12,7 +12,7 @@
 ## 🌐 Contact Me:
 
 - #### 📮 **_Email_** : shaawwert6044@gmail.com
-- #### 📚 **_Tistory Blog_** : https://whaleinmilktea.tistory.com/
+- #### 📚 **_Tistory Blog_** :https://velog.io/@whaleinmilktea/posts
 
 <br>
 
